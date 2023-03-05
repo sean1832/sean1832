@@ -8,6 +8,6 @@ I love sharing my creations with others and spreading the joy of programming. Bu
 
 Skills: GRASSHOPPER / PYTHON / C#
 
-
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=sean1832&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
