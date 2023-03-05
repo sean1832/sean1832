@@ -8,6 +8,16 @@ I love sharing my creations with others and spreading the joy of programming. Bu
 
 Skills: GRASSHOPPER / PYTHON / C#
 
-[![Zeke Zhang's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=sean1832&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=sean1832&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=sean1832&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=sean1832&show_icons=true" />
+</picture>
 
 
