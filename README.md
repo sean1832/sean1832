@@ -1,5 +1,5 @@
 # 🌍Greetings, fellow earthlings!
-![I am an architecture student studying RMIT University](Banner.png)
+![I am a computational designer studying architecture at RMIT University](Banner.png)
 
 ### I am Zeke,
 a self-conscious creature who was hatched🥚 in China but later migrated to Australia for bigger and better opportunities. I am currently pursuing my Master's degree in architecture, specializing in the mind-boggling world of advanced computational design🧑‍💻. When I'm not designing structures that defy the laws of physics, I'm tinkering away on my computer, writing code that will one day take over the world (just kidding... or am I?🤖). 
