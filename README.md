@@ -2,7 +2,7 @@
 
 <a href="https://www.buymeacoffee.com/zekezhang" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
 
-Melbourne-based researcher and computational designer working at the intersection of code and architecture. I combine algorithmic design, reinforcement learning, and GPU-accelerated workflows to develop data-driven, resource-efficient design systems. My work involves building custom toolchains (Grasshopper/RhinoCommon, ILGPU, ML-Agents) and training AI models (PyTorch, ONNX) that translate complex environmental and structural data into actionable design logic.
+Researcher and computational designer working at the intersection of code and architecture. I combine algorithmic design, reinforcement learning, and GPU-accelerated workflows to develop data-driven, resource-efficient design systems. My work involves building custom toolchains (Grasshopper/RhinoCommon, ILGPU, ML-Agents) and training AI models (PyTorch, ONNX) that translate complex environmental and structural data into actionable design logic.
 
 
 Skills: GRASSHOPPER / PYTHON / C# / JavaScript
