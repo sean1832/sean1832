@@ -2,11 +2,12 @@
 
 <a href="https://www.buymeacoffee.com/zekezhang" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
 
-Zeke Zhang is a  research team member at AIARCH. Specializing in algorithmic generative design and machine learning, Zeke is dedicated to exploring the potential of machine intelligent driven design in architecture. His work focuses on leveraging multidisciplinary digital technologies to develop innovative and sustainable design solutions.
+Melbourne-based researcher and computational designer working at the intersection of code and architecture. I combine algorithmic design, reinforcement learning, and GPU-accelerated workflows to develop data-driven, resource-efficient design systems. My work involves building custom toolchains (Grasshopper/RhinoCommon, ILGPU, ML-Agents) and training AI models (PyTorch, ONNX) that translate complex environmental and structural data into actionable design logic.
+
 
 Skills: GRASSHOPPER / PYTHON / C# / JavaScript
 
-Shoot me an email dev@zekezhang.com
+Shoot me an email at dev@zekezhang.com
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=sean1832&amp;hide_border=true&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;bg_color=0d1117ff&amp;theme=dark" alt="Stats" width="490" style="max-width:50%">
